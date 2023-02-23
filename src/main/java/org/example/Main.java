@@ -3,6 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello , Fuck you!");
+        System.out.println("Hello , love you!");
     }
 }
